@@ -23,11 +23,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science student at Institut Teknologi Sepuluh Nopember. I am also a programmer in the IRIS ITS research team, where I work on innovative projects and research in robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Computer Science student at Institut Teknologi Sepuluh Nopember. I am passionate about DevOps and enjoy working on projects that bridge the gap between development and operations <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: Currently pursuing my studies in Computer Science and exploring various aspects of software development.
+- :telescope: Currently pursuing my studies in Computer Science and exploring various aspects of DevOps and cloud infrastructure.
 
-- :seedling: Interested in learning and growing in the field of technology.
+- :seedling: Interested in learning and growing in the field of technology, especially in automation, CI/CD, and cloud computing.
 
 - :zap: In my free time, I enjoy participating in Capture The Flag (CTF) challenges and reading tech articles.
 
